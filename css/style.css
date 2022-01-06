@@ -647,7 +647,7 @@ a:hover, a:focus {
 }
 
 /*=== MEDIA QUERY ===*/
-@media (max-width: 768px) {
+@media (max-width: 991px) {
   .navbar-toggler {
     background: #fff !important;
   }
